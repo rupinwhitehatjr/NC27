@@ -31,7 +31,6 @@ function setup() {
 	bobObject5=new bob(startBobPositionX+bobDiameter*2,startBobPositionY,bobDiameter);
 	
 	
-	//Create a Ground
 	
 
 	var render = Render.create({
